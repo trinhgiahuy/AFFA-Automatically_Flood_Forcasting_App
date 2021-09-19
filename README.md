@@ -16,3 +16,6 @@ A project was built on Arduino Uno R3 using ESP826 NodeMCU and HC-SR04 Sensor
 $ cd ARDUINO - SSEF
 $ cd src
 ```
+
+Some image about the project
+![](https://github.com/trinhgiahuy/AFFA-Automatically_Flood_Forcasting_App/blob/master/ARDUINO%20-%20SSEF/img/comp.png?raw=true)
