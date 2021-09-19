@@ -15,9 +15,10 @@ A project was built on Arduino Uno R3 using ESP826 NodeMCU and HC-SR04 Sensor
 ```
 $ cd ARDUINO - SSEF
 $ cd src
+//You can start add `cam_bien_song_am.ino` into [Arduino IDE](https://www.arduino.cc/en/software#experimental-software) and compile it.
 ```
 
-Some image about the project 
+Some images about the project 
 
 ![](https://github.com/trinhgiahuy/AFFA-Automatically_Flood_Forcasting_App/blob/master/ARDUINO%20-%20SSEF/img/comp.png?raw=true)
 
