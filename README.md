@@ -20,6 +20,6 @@ You can start add `cam_bien_song_am.ino` into [Arduino IDE](https://www.arduino.
 
 Some images about the project 
 
-![](https://github.com/trinhgiahuy/AFFA-Automatically_Flood_Forcasting_App/blob/master/ARDUINO%20-%20SSEF/img/comp.png?raw=true)
+![](https://github.com/trinhgiahuy/AFFA-Automatically_Flood_Forcasting_App/blob/master/ARDUINO_SSEF/img/comp.png?raw=true)
 
-![](https://github.com/trinhgiahuy/AFFA-Automatically_Flood_Forcasting_App/blob/master/ARDUINO%20-%20SSEF/img/map.png?raw=true)
+![](https://github.com/trinhgiahuy/AFFA-Automatically_Flood_Forcasting_App/blob/master/ARDUINO_SSEF/img/map.png?raw=true)
