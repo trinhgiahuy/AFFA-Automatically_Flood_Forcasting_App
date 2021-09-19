@@ -17,5 +17,8 @@ $ cd ARDUINO - SSEF
 $ cd src
 ```
 
-Some image about the project
+Some image about the project 
+
 ![](https://github.com/trinhgiahuy/AFFA-Automatically_Flood_Forcasting_App/blob/master/ARDUINO%20-%20SSEF/img/comp.png?raw=true)
+
+![](https://github.com/trinhgiahuy/AFFA-Automatically_Flood_Forcasting_App/blob/master/ARDUINO%20-%20SSEF/img/map.png?raw=true)
