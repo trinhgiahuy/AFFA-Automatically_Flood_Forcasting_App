@@ -15,8 +15,8 @@ A project was built on Arduino Uno R3 using ESP826 NodeMCU and HC-SR04 Sensor
 ```
 $ cd ARDUINO - SSEF
 $ cd src
-//You can start add `cam_bien_song_am.ino` into [Arduino IDE](https://www.arduino.cc/en/software#experimental-software) and compile it.
 ```
+You can start add `cam_bien_song_am.ino` into [Arduino IDE](https://www.arduino.cc/en/software#experimental-software) and compile it.
 
 Some images about the project 
 
