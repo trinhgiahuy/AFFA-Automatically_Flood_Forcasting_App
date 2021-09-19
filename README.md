@@ -14,5 +14,5 @@ A project was built on Arduino Uno R3 using ESP826 NodeMCU and HC-SR04 Sensor
 ## Setup
 ```
 $ cd ARDUINO - SSEF
-$ 
+$ cd src
 ```
